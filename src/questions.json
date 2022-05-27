@@ -1,0 +1,395 @@
+{
+    "comedy": [{
+            "question": "Everything Everywhere (2022) All at Once",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "The Bad Guys (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "The Rum Diary (2011)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Grace and Frankie (2015–2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "This Is Us (2016–2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        }
+    ],
+
+    "sci-fi": [{
+            "question": "Doctor Strange in the Multiverse of Madness (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Everything Everywhere All at Once (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Star Trek: Strange New Worlds (2022– )",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Halo (2022– ) SERIE",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Obi-Wan Kenobi (2022) SERIE",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        }
+    ],
+
+    "horror": [{
+            "question": "Doctor Strange in the Multiverse of Madness (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "X (II) (2022) FILME",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Stranger Things (2016– )",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "The Walking Dead (2010–2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "The Black Phone (2021)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        }
+    ],
+    "romance": [{
+            "question": "365 Days: This Day (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "365 Days (2020) FILME",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "House of the Dragon (2022– )",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Heartstopper (2022– )",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "This Is Us (2016–2022) ",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        }
+    ],
+    "action": [{
+            "question": "Doctor Strange in the Multiverse of Madness (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Moon Knight (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "The Batman (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "The Northman (2022) FILME",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Everything Everywhere All at Once (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        }
+    ],
+    "thriller": [{
+            "question": "Ozark (2017–2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "The Northman (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Don't Worry Darling (I) (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Under the Banner of Heaven (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "The Staircase (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        }
+    ],
+    "drama": [{
+            "question": "Ozark (2017–2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Better Call Saul (2015–2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "The Batman (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "The Northman (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "365 Days: This Day (2022",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        }
+    ],
+    "mystery": [{
+            "question": "The Batman (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Under the Banner of Heaven (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "The Staircase (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Outer Range (2022– )",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Severance (2022– )",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        }
+    ],
+    "crime": [{
+            "question": "Ozark (2017–2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Better Call Saul (2015–2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "The Batman (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Under the Banner of Heaven (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "The Staircase (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        }
+    ],
+    "animation": [{
+            "question": "The Bad Guys (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Attack on Titan (2013–2023)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "What If...? (2021– )",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Sing 2 (2021)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Turning Red (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        }
+    ],
+    "adventurer": [{
+            "question": "Doctor Strange in the Multiverse of Madness (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Moon Knight (2022) SERIE",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "The Northman (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Everything Everywhere All at Once (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "House of the Dragon (2022– )",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        }
+    ],
+    "fantasy": [{
+            "question": "Doctor Strange in the Multiverse of Madness (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Moon Knight (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "The Northman (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Everything Everywhere All at Once (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "House of the Dragon (2022– )",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        }
+    ],
+    "comedy romance": [{
+            "question": "This Is Us (2016–2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Crush (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "The Lost City (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Our Flag Means Death (2022– )",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "That '90s Show SERIE",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        }
+    ],
+    "action comedy": [{
+            "question": "Everything Everywhere All at Once (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Barry (2018– )",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Sonic the Hedgehog 2 (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "The Unbearable Weight of Massive Talent (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "The Gentlemen (2019)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        }
+    ],
+    "superhero": [{
+            "question": "Doctor Strange in the Multiverse of Madness (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Moon Knight (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "The Batman (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Star Trek: Strange New Worlds (2022– )",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        },
+        {
+            "question": "Obi-Wan Kenobi (2022)",
+            "answers": ["gosta", "não gosta", "não conhece"],
+            "correctAnswer": "gosta"
+        }
+    ]
+
+}
