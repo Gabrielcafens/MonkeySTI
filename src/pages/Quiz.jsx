@@ -32,7 +32,7 @@ class Quiz extends React.Component {
             : this.setStatus("wrong");
         
         localStorage.setItem(
-            localStorage.getItem('currentSubject').toString()+'.a'+(this.questionNumber+1).toString(), answer
+            localStorage.getItem('currentSubject').toString()+'.a'+(this.state.questionNumber+1).toString(), answer
             );
     }
 
